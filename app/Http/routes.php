@@ -20,4 +20,4 @@ Route::controllers([
 	'password' => 'Auth\PasswordController',
 ]);
 
-Route::get('/shiro', function(){return 'magnet!!';});
+Route::get('/hime', function(){return 'magnet!!';});
